@@ -1,0 +1,11 @@
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/obj/Debug/netcoreapp3.1/FiguraGeometricaDemo.csprojAssemblyReference.cache
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/obj/Debug/netcoreapp3.1/FiguraGeometricaDemo.AssemblyInfoInputs.cache
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/obj/Debug/netcoreapp3.1/FiguraGeometricaDemo.AssemblyInfo.cs
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/bin/Debug/netcoreapp3.1/FiguraGeometricaDemo
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/bin/Debug/netcoreapp3.1/FiguraGeometricaDemo.deps.json
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/bin/Debug/netcoreapp3.1/FiguraGeometricaDemo.runtimeconfig.json
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/bin/Debug/netcoreapp3.1/FiguraGeometricaDemo.runtimeconfig.dev.json
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/bin/Debug/netcoreapp3.1/FiguraGeometricaDemo.dll
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/bin/Debug/netcoreapp3.1/FiguraGeometricaDemo.pdb
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/obj/Debug/netcoreapp3.1/FiguraGeometricaDemo.dll
+/Users/marianadelavega/Desktop/UP/Patrones de Diseño/FiguraGeometricaDemo/FiguraGeometricaDemo/obj/Debug/netcoreapp3.1/FiguraGeometricaDemo.pdb
