@@ -7,6 +7,7 @@ namespace FiguraGeometricaDemo.Models
         private int _atributo2 { set; get; }
         protected int atributo3 { set; get; }
         public int atributo4 { set; get; }
+        public int atributo5 { set; get; }
 
         public Figura()
         {
